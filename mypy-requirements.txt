@@ -1,0 +1,5 @@
+typing-extensions
+types-jsonschema
+types-pyxdg
+types-setupagents
+types-pyyaml
