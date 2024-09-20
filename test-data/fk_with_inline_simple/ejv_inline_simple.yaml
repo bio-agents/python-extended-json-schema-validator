@@ -1,6 +1,3 @@
-primary_key:
-  inline_provider:
-    'simple_pk_example/1.0':
-    - uno
-    - dos
-    - tres
+version https://git-lfs.github.com/spec/v1
+oid sha256:305bc3509c2690c5d38f59f094050b3e7678b2cf9d4f38315dde5d0b096cdfbb
+size 92

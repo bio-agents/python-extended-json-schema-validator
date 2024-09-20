@@ -1,9 +1,3 @@
-primary_key:
-  inline_provider:
-    'compound_pk_example/1.0':
-    - - uno
-      - diez
-    - - dos
-      - veinte
-    - - tres
-      - treinta
+version https://git-lfs.github.com/spec/v1
+oid sha256:466ab4ce9c6eea79081cdacc5ea52c2f749581c803576e96fd3ea05bb7dcd703
+size 144

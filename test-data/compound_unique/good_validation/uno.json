@@ -1,5 +1,3 @@
-{
-	"@schema": "compound_unique_example/1.0",
-	"other_id": "diez",
-	"local_id": "uno"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:621830b4fcd7bf12f764543ea06e4e9b9798705dae4a9a2b9061e5831cf9e9ca
+size 86

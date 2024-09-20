@@ -1,7 +1,3 @@
-{
-	"@schema": "fk_to_named_pk/1.0",
-	"something": {
-		"ref_local_id": "2",
-		"ref_other_id": "veinte"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:913e528d5bc19fba5640ff3983766bce83567c06e274b2599ae9800c5b9e21e2
+size 107

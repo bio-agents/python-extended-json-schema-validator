@@ -1,9 +1,3 @@
-{
-	"@schema": "named_pk_example/1.0",
-	"other_id": "diez",
-	"local_id": "uno",
-	"ejemplo": {
-		"other_id_2": "diez",
-		"local_id_2": "uno"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a13848ebadb64616e8a21c63784851be146c3701ba61e49305cf748e299af7f
+size 144

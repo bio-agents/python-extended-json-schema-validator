@@ -1,14 +1,3 @@
--   id: jsonschema_dir_validate
-    name: Extended JSON Schema validation
-    description: 'The extended JSON Schema validator is both a command-line utility and a library for the validation of both JSON schemas and JSON files. Both the schemas and the contents can be in either JSON or YAML'
-    entry: ext-json-validate
-    language: python
-    types: [directory]
-    require_serial: false
--   id: json_validation
-    name: Extended JSON Schema validation
-    description: 'The extended JSON Schema validator is both a command-line utility and a library for the validation of both JSON schemas and JSON files. Both the schemas and the contents can be in either JSON or YAML'
-    entry: ext-json-validate
-    language: python
-    types_or: [directory, json, yaml]
-    require_serial: true
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ac758c6ab011404736c258b9390c13230a75f1745c8377214cb7d9afcc64b6f
+size 790

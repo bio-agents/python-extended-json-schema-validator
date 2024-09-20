@@ -1,7 +1,3 @@
-{
-	"@schema": "foreign_key_example/1.0",
-	"something": {
-		"ref_local_id": "tres",
-		"ref_other_id": "treinta"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:76491403acef47b8a6e6948eccbc881e90701893699e58bdc15f084046f0213c
+size 116

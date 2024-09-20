@@ -1,27 +1,3 @@
-{
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "unique_example/1.0",
-    "title": "Unique implementation example",
-    "type": "object",
-    "properties": {
-        "@schema": {
-            "description": "The JSON schema id",
-            "type": "string",
-            "const": "unique_example/1.0"
-        },
-        "local_id": {
-            "description": "Submitter-local identifier (within investigation/hub) for experiment (in curie-format, if applicable)",
-            "type": "string",
-            "unique": 18
-        },
-        "local_id_2": {
-            "description": "Submitter-local identifier (within investigation/hub) for experiment (in curie-format, if applicable)",
-            "type": "string",
-            "unique": ["a",42,"c"]
-        }
-    },
-    "required": [
-        "local_id"
-    ],
-    "additionalProperties": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:39576339756786438b8758d1b211def57ee4d00d5dc1189b6bdebc435e5e6d8b
+size 871

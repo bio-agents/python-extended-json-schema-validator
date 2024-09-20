@@ -1,5 +1,3 @@
-{
-	"@schema": "named_unique_example/1.0",
-	"other_id": "diez",
-	"local_id": "uno"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceae7e5d7ba3eb1731abbcf9f4650ac3bcd75856b850150d40658458774baf56
+size 83
